@@ -14,6 +14,11 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
+        > <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           Learn React
         </a>
@@ -24,4 +29,3 @@ function App() {
 
 export default App;
 
-/* git reset --hard  позволяет откатить все коммиты которые были выполнены в ветке и вернуть последний коммит текущей ветки*/
