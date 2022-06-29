@@ -1,5 +1,5 @@
 import React from "react";
 
 export const Button = () => {
-  return <div>Changes from server</div>;
+  return <div>Changes from local state</div>;
 };
