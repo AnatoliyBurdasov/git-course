@@ -1,1 +1,2 @@
 Changes from remote server
+New text from remote server
