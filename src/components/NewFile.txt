@@ -1,10 +1,7 @@
 Changes from remote server
 
 
-<<<<<<< HEAD
-New text from remote branch
-=======
+
 New text from first local branch
 New text from first remote branch
 
->>>>>>> 9bc8834a1fab23af12e9c47131b2d29fb17dc6dd
