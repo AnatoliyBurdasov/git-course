@@ -2,3 +2,4 @@ Changes from remote server
 
 
 New text from first local branch
+New text from first remote branch
