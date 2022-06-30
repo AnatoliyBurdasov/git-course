@@ -1,5 +1,5 @@
 import React from "react";
 
 export const Error = () => {
-  return <div>Remote</div>;
+  return <div>LocalLocal</div>;
 };
