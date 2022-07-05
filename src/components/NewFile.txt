@@ -1,14 +1,6 @@
-Changes from remote server
-
-
-
-11111111111
-
-22222222222222222
+Changes from local server
 
 
 
 
-
-qqqqqqqqqqqqqq
 
