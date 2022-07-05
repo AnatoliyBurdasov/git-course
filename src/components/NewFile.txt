@@ -2,16 +2,3 @@ Changes from local server))))
 
 
 
-<<<<<<< HEAD
-=======
-11111111111
-
-22222222222222222
-
-
-
-
-
-qqqqqqqqqqqqqq
-
->>>>>>> 5db2899239acdfeea2610b0ca0fa0c73c4ec548b
