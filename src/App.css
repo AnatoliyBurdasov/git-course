@@ -1,13 +1,9 @@
 .App {
   text-align: center;
-  text-align: center;
-  text-align: center;
-}
-.App {
-  text-align: center;
-  text-align: center;
+  display: flex;
   text-align: center;
 }
+
 
 .App-logo {
   height: 40vmin;
